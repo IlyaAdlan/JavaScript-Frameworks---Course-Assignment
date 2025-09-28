@@ -6,7 +6,7 @@ node_modules/
 
 # Next.js build output
 .next/
-out/
+# Note: out/ folder is needed for GitHub Pages deployment
 
 # Environment variables
 .env
