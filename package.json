@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "test": "jest",
-    "export": "next build && next export"
+    "export": "next build"
   },
   "dependencies": {
     "bootstrap": "^5.3.8",

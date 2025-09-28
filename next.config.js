@@ -7,6 +7,7 @@ const nextConfig = {
   },
   basePath: '/JavaScript-Frameworks---Course-Assignment',
   assetPrefix: '/JavaScript-Frameworks---Course-Assignment/',
+  distDir: 'out'
 }
 
 module.exports = nextConfig
